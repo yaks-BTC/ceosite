@@ -9,7 +9,7 @@ export default function Home() {
       <header className="sticky top-0 z-50 w-full border-b bg-white">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
-            <Image src="/logo.jpg" alt="Sulyadaini Logo" width={180} height={50} className="h-auto" />
+            <Image src="/logo.jpg" alt="Ssulyadaini Logo" width={180} height={50} className="h-auto" />
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#services" className="text-sm font-medium hover:text-primary transition-colors">
@@ -35,14 +35,14 @@ export default function Home() {
             <div className="flex flex-col justify-center space-y-4">
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-[#2a3990]">
-                  Welcome to Sulyadaini
+                  Welcome to Ssulyadaini
                 </h1>
                 <p className="text-xl text-gray-700 md:text-2xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Your One-Stop Shop for Phone Accessories & Repairs
                 </p>
               </div>
               <p className="text-gray-600 md:text-xl">
-                At Sulyadaini, we specialize in providing top-quality phone accessories and professional repair services
+                At Ssulyadaini, we specialize in providing top-quality phone accessories and professional repair services
                 for all types of mobile electronic devices. Whether you need a stylish new case, a screen replacement,
                 or a software fix, we're here to help.
               </p>
@@ -141,7 +141,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-[#2a3990]">
-                Why Choose Sulyadaini
+                Why Choose Ssulyadaini
               </h2>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl">
                 We're committed to providing exceptional service and value to every customer
@@ -174,7 +174,7 @@ export default function Home() {
           </div>
           <div className="mt-12 text-center">
             <p className="text-xl font-medium text-[#2a3990]">
-              Visit Sulyadaini today – where quality meets convenience.
+              Visit Ssulyadaini today – where quality meets convenience.
             </p>
             <p className="text-gray-600 mt-2">Let us give your phone the attention it deserves!</p>
           </div>
@@ -236,7 +236,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mt-6">
-                Our team at Sulyadaini is available to assist you with phone accessories, device repairs, software
+                Our team at Ssulyadaini is available to assist you with phone accessories, device repairs, software
                 fixes, and more. Reach out today and experience fast, friendly, and reliable mobile service!
               </p>
             </div>
@@ -288,13 +288,13 @@ export default function Home() {
             <div className="flex items-center gap-2">
               <Image
                 src="/logo.jpg"
-                alt="Sulyadaini Logo"
+                alt="Ssulyadaini Logo"
                 width={150}
                 height={40}
                 className="h-auto bg-white p-1 rounded"
               />
             </div>
-            <p className="text-sm">&copy; {new Date().getFullYear()} Sulyadaini. All rights reserved.</p>
+            <p className="text-sm">&copy; {new Date().getFullYear()} Ssulyadaini. All rights reserved.</p>
           </div>
         </div>
       </footer>
